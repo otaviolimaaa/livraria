@@ -1,0 +1,43 @@
+.quadro{
+    background-color: #808080;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    height: 500px;
+    margin: 40px;
+display: flex;
+margin-left: 250px;
+margin-top: 70px;
+
+}
+.quadro img{
+    width: 200px;
+    margin-left: 70px;
+}
+.comp{
+    background-color: antiquewhite; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 70px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+.fold{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.qdro2{
+    gap: 10px;
+    flex-direction: column;
+    display: flex;
+    height: 300px;
+    margin: 30px;
+    font-size: xx-large;
+}
